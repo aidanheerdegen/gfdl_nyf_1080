@@ -1,5 +1,5 @@
 # PBS flags
-queue: express
+queue: normal
 project: x77
 walltime: 5:00:00
 ncpus: 1920
